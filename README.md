@@ -23,7 +23,7 @@
 - **Database:** MySQL or SQLite
   
 ## Installation
-- git clone https://github.com/sayedahmadfida/User-Auhentication-Roles-and-Inventory.git
+- Download from https://github.com/sayedahmadfida/User-Auhentication-Roles-and-Inventory.git
 - composer install
 - cp .env.example .env
 - php artisan key:generate
