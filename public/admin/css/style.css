@@ -1,0 +1,28 @@
+.modal-content, .card{
+ border-radius: 10px;
+}
+
+.error{
+ font-size: 1rem !important;
+ 
+ color: var(--red);
+}
+.table-bordered td{
+ padding: 2px 5px !important;
+}
+.table-bordered th{
+ padding: 5px !important;
+}
+
+.custom-paginate svg{
+ width: 20px;
+}
+
+.custom-paginate nav > div:first-child{
+ display: none;
+}
+
+
+input, button, select, textarea{
+ border-radius: 0px !important;
+}
